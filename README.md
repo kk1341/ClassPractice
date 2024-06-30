@@ -1,6 +1,6 @@
 # ClassPractice
 
-### Algorithm folder
+### Algorithm
 学校の課題で作成したアルゴリズムのファイルを保管<br>
 以下に示すアルゴリズムが保管されている。
 
@@ -10,7 +10,7 @@
 <li>ヒープソート</li>
 <li>ダイクストラ法</li>
 
-### DataStructure folder
+### DataStructure
 学校の課題で作成したデータ構造のファイルを保管
 以下に示すデータ構造が保管されている
 
